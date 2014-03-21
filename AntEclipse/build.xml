@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<project name="testAnt" default="affiche">
+<target name="affiche">
+<echo message="Un message au travers de Ant"/>
+</target>
+</project>
