@@ -2,5 +2,6 @@
 <project name="testAnt" default="affiche">
 <target name="affiche">
 <echo message="Un message au travers de Ant"/>
+<echo message="toto titi"/>
 </target>
 </project>
